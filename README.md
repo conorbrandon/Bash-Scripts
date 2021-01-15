@@ -16,5 +16,4 @@
 `etc...`
 #### Use
 `prog2.sh <input> <output>`
-###### Be advised
-script expects input file in specified format
+###### Be advised <br> script expects input file in specified format
