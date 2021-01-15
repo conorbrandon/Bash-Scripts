@@ -28,7 +28,7 @@
 #### Use
 `$ prog3.sh <input> [ <weight1> <weight2> ... ]`
 - If more weights are provided than questions, extras will be ignored. If fewer weights, subsequent questions default to weight of 1.
-- example input file:
+- example input file: <br>
 `ID,Q1,Q2,Q3,Q4,Q5` <br>
 `101,8,6,9,4,4` <br>
 `102,9,9,9,10,4` <br>
@@ -45,7 +45,7 @@ Percentage Score Range  Letter Grade
 <65                     D
 #### Use
 `$ prog4.sh <directory>`
-- example input file:
+- example input file: <br>
 `ID,Q1,Q2,Q3,Q4,Q5` <br>
 `101,8,6,9,4,4` <br>
 *Be advised:* script expects each file to look exactly as above.
