@@ -40,11 +40,11 @@
 ---
 
 4. Computes the letter grade from a directory of files with each student's test score. Grades are printed to console for each student. Test is always worth 50 points and letter grades as follows:
-Percentage Score Range  Letter Grade
-93-100                  A
-80-92                   B
-65-79                   C
-<65                     D
+Percentage Score Range : Letter Grade
+93-100 : A
+80-92 : B
+65-79 : C
+<65 : D
 #### Use
 `$ prog4.sh <directory>`
 - example input file: <br>
