@@ -1,10 +1,13 @@
 # Bash-Scripts
 ### 5 simple bash programs
 
+---
+
 1. Moves all .c files from a source directory to a destination directory, preserving the directory structure, while keeping all .o files in source. 
 #### Use
 `$ prog1.sh <src> <dest>`
 - If more than 3 files affected, user must confirm move with 'y' or 'Y'. Any other string will skip over these files. 
+<br> ---
 
 2. Sums up columns in an input file separated by ';' or ',' or ';' and writes to an output file. Creates output file if doens't exist, or overwrites it if it does.
 #### Use
@@ -18,6 +21,7 @@
 `etc...`
 ##### Be advised 
 script expects input file in specified format
+<br> ---
 
 3. Computes the weighted average of a set of scores on test questions in an input file, and prints to console.
 #### Use
@@ -30,3 +34,4 @@ script expects input file in specified format
 `etc...`
 ##### Be advised 
 script expects first line as above and ids to be present
+<br> ---
