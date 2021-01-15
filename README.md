@@ -20,6 +20,7 @@
 `Col 1 : 2` <br>
 `Col 2 : 4` <br>
 `etc...` <br>
+
 *Be advised:* script expects input file in specified format
 
 ---
@@ -33,6 +34,7 @@
 `101,8,6,9,4,4` <br>
 `102,9,9,9,10,4` <br>
 `etc...` <br>
+
 *Be advised:* script expects first line as above and ids to be present 
 
 ---
@@ -48,6 +50,17 @@ Percentage Score Range  Letter Grade
 - example input file: <br>
 `ID,Q1,Q2,Q3,Q4,Q5` <br>
 `101,8,6,9,4,4` <br>
+
 *Be advised:* script expects each file to look exactly as above.
 
 ---
+
+5. Given an input file and dictionary file (which contains valid four letter words), display on console misspelled words in input file.
+#### Use
+`$ prog5.sh <input> <dictionary>`
+- example dictionary file: <br>
+`able` <br>
+`ache` <br>
+`etc...` <br>
+
+*Be advised:* script expects each file to look exactly as above.
