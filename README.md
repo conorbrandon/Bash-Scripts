@@ -34,8 +34,8 @@ script expects input file in specified format
 `101,8,6,9,4,4` <br>
 `102,9,9,9,10,4` <br>
 `etc...`
-##### Be advised 
-script expects first line as above and ids to be present
+##### Be advised
+script expects first line as above and ids to be present 
 <br> 
 ---
 
