@@ -63,4 +63,4 @@ Percentage Score Range  Letter Grade
 `ache` <br>
 `etc...` <br>
 
-*Be advised:* script expects each file to look exactly as above.
+*Be advised:* script expects each valid word to be on newline
