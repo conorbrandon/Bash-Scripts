@@ -7,7 +7,8 @@
 #### Use
 `$ prog1.sh <src> <dest>`
 - If more than 3 files affected, user must confirm move with 'y' or 'Y'. Any other string will skip over these files. 
-<br> ---
+<br> 
+---
 
 2. Sums up columns in an input file separated by ';' or ',' or ';' and writes to an output file. Creates output file if doens't exist, or overwrites it if it does.
 #### Use
@@ -21,7 +22,8 @@
 `etc...`
 ##### Be advised 
 script expects input file in specified format
-<br> ---
+<br> 
+---
 
 3. Computes the weighted average of a set of scores on test questions in an input file, and prints to console.
 #### Use
@@ -34,4 +36,21 @@ script expects input file in specified format
 `etc...`
 ##### Be advised 
 script expects first line as above and ids to be present
-<br> ---
+<br> 
+---
+
+4. Computes the letter grade from a directory of files with each student's test score. Grades are printed to console for each student. Test is always worth 50 points and letter grades as follows:
+Percentage Score Range  Letter Grade
+93-100                  A
+80-92                   B
+65-79                   C
+<65                     D
+#### Use
+`$ prog4.sh <directory>`
+- example input file:
+`ID,Q1,Q2,Q3,Q4,Q5` <br>
+`101,8,6,9,4,4` <br>
+##### Be advised 
+script expects each file to look exactly as above.
+<br> 
+---
