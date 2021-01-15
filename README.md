@@ -20,9 +20,8 @@
 `Col 1 : 2` <br>
 `Col 2 : 4` <br>
 `etc...`
-##### Be advised 
-script expects input file in specified format
-<br> 
+*Be advised* script expects input file in specified format
+<br>
 ---
 
 3. Computes the weighted average of a set of scores on test questions in an input file, and prints to console.
@@ -34,8 +33,7 @@ script expects input file in specified format
 `101,8,6,9,4,4` <br>
 `102,9,9,9,10,4` <br>
 `etc...`
-##### Be advised
-script expects first line as above and ids to be present 
+*Be advised* script expects first line as above and ids to be present 
 <br> 
 ---
 
@@ -50,7 +48,6 @@ Percentage Score Range  Letter Grade
 - example input file:
 `ID,Q1,Q2,Q3,Q4,Q5` <br>
 `101,8,6,9,4,4` <br>
-##### Be advised 
-script expects each file to look exactly as above.
+*Be advised* script expects each file to look exactly as above.
 <br> 
 ---
